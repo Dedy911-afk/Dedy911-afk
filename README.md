@@ -1,3 +1,6 @@
+[print-subscriptions.json](https://github.com/user-attachments/files/17989622/print-subscriptions.json)
+![IMG20231204141540](https://github.com/user-attachments/assets/15d45c2f-f5d4-41a9-b22a-0665e28f1aaf)
+[VID20231228175635.mp4.json](https://github.com/user-attachments/files/17989613/VID20231228175635.mp4.json)
 - 👋 Hi, I’m @Dedy911-afk
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
